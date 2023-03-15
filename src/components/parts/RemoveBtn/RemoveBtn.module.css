@@ -1,0 +1,13 @@
+.btnWrapper {
+  margin-left: auto;
+}
+
+.btnWrapper button {
+  border: none;
+  color: #fff;
+  background-color: red;
+  cursor: pointer;
+  font-size: 0.9rem;
+  padding: 6px 10px;
+  border-radius: 7px;
+}

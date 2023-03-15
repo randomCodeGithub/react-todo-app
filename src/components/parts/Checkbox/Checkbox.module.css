@@ -1,0 +1,16 @@
+.check {
+  margin-right: 0.5rem;
+  width: 20px;
+  height: 20px;
+  margin-top: 8px;
+  border-radius: 50%;
+  display: flex;
+  border: solid 3px transparent;
+  background: grey;
+  cursor: pointer;
+  opacity: 0.5;
+}
+
+.check.completed {
+  background: green;
+}

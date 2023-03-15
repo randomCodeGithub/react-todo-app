@@ -1,0 +1,11 @@
+.text {
+  width: 100%;
+  max-width: 73px;
+  user-select: none;
+  cursor: pointer;
+}
+
+.text.completed {
+  color: #b6b6b6;
+  text-decoration: line-through;
+}
